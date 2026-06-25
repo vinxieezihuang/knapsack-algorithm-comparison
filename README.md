@@ -17,9 +17,7 @@ The study was implemented in Python and documented in a formal report.
 ---
 
 ## Problem Description
-The **0/1 Knapsack Problem** is a combinatorial optimization problem where each item must be either:
-- fully selected, or
-- fully rejected.
+The **0/1 Knapsack Problem** is a combinatorial optimization problem where each item must be either fully selected or fully rejected.
 
 Each item has:
 - a **weight**
@@ -118,4 +116,4 @@ knapsack-algorithm-comparison/
 ├── README.md
 ├── requirements.txt
 ├── knapsack_compare.py
-├── knapsack-comparison-report.pdf
+└── knapsack-comparison-report.pdf
